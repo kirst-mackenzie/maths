@@ -1,3 +1,4 @@
+/*slkdfjslk*/
 .navbar {
 	background-color: #10D9D5;
 	border-color: #10D9D5;
@@ -6,29 +7,24 @@
 	color:#0FA0D3;
 }
 body {
-	background-image: url("/images.jpg");
-	font-family: 'Kreon', serif;
-	font-size: 250%;
-	text-align: center
-
+	background-image: url("C:\Users\kirst\OneDrive\CodeFirstGirls\Ruby\maths\public\images.jpg");
+	color: white;
 }
+
 
 background-image {
 	opacity:0.01;
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
 }
 .navbar-header col-xs-11v {
 	font-family: 'Kreon', serif;
 
 }
 
-label {
-	color:#10D9D5;
+form {
+	color:white;
 }
 
 
 #submit-button:hover {
-    color: #10D9D5;
+    background: rgba(100,100,100,0);
 }
